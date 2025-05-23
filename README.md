@@ -21,6 +21,12 @@ Writing code that makes sense - to both computers and people.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
+---
+
+## 📫 Contact
+- **Email:** [ameyamorgaonkar@gmail.com](mailto:ameyamorgaonkar@gmail.com)
+
+
 
 <!-- ---
 
@@ -30,9 +36,7 @@ Writing code that makes sense - to both computers and people.
 - **[Another Project](https://github.com/yourusername/anotherproject)** – Another short one-liner.
 - *(Add more as you go)*
 
----
 
-## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - **Email:** [youremail@example.com](mailto:youremail@example.com)
