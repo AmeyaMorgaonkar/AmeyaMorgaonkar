@@ -19,9 +19,9 @@ Writing code that makes sense - to both computers and people.
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
 
----
+<!-- ---
 
-<!-- ## 📂 Projects
+## 📂 Projects
 
 - **[Project Name](https://github.com/yourusername/projectname)** – Short one-liner about what it does.
 - **[Another Project](https://github.com/yourusername/anotherproject)** – Another short one-liner.
