@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there👋 
+I'm Ameya Morgaonkar, and I'm a Full Stack Developer based in India.
+
+
+
+
 
 <!--
 **AmeyaMorgaonkar/AmeyaMorgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
