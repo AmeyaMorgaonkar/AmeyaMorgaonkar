@@ -1,5 +1,8 @@
 ## Hi there👋 
-I'm Ameya Morgaonkar, and I'm a Full Stack Developer based in India.
+I'm Ameya Morgaonkar, and I'm a Full Stack Developer based in India.  
+- Backend Development Enthusiast
+- Committed to writing clean, maintainable, and testable code
+- Continuously learning and adapting to new technologies
 
 ---
 
