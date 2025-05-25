@@ -5,7 +5,8 @@ I'm **Ameya Morgaonkar**, and I'm a **Full Stack Developer** based in India.
 
 ## 🛠️ What I Work With
 
-Writing code that makes sense - to both computers and people.  
+I am currently working on: [Quiz App](https://github.com/AmeyaMorgaonkar/quiz-app)  
+I recently worked on: [Photoshop Clone](https://github.com/AmeyaMorgaonkar/Photoshop-Clone)
 
 **My Tech Stack:**  
   
