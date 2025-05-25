@@ -1,12 +1,13 @@
-## Hi there👋 
+## Hi there 👋
 I'm **Ameya Morgaonkar**, and I'm a **Full Stack Developer** based in India.  
 
 ---
 
-## 🛠️ What I Work With
+
+## 🛠️ My Tech Stack
 
 
-### My Tech Stack:  
+
   
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
@@ -29,18 +30,33 @@ I'm **Ameya Morgaonkar**, and I'm a **Full Stack Developer** based in India.
 | [Photoshop Clone](https://github.com/AmeyaMorgaonkar/Photoshop-Clone) | A clean way to edit & control various properties of your photos          |
 
 
+
+---
+
+## 📫 Contact Me
+- **Email:** [ameyamorgaonkar@gmail.com](mailto:ameyamorgaonkar@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## 🛠️ What I Work With -->
+<!-- ### My Tech Stack: -->  
+
+
 <!--
 **I'm Currently Working On:**
 - **[Quiz App](https://github.com/AmeyaMorgaonkar/quiz-app)** – A Simple Quiz App where you can add questions and get results
 - **[Photshop Clone](https://github.com/AmeyaMorgaonkar/Photoshop-Clone)** – A clean way to edit & control various properties of your photos
 -->
-
-
----
-
-## 📫 Contact
-- **Email:** [ameyamorgaonkar@gmail.com](mailto:ameyamorgaonkar@gmail.com)
-
 
 
 <!-- ---
