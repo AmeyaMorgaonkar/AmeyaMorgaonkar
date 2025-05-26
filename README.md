@@ -32,7 +32,7 @@ I'm a **Full Stack Developer** based in Pune, India.
 | [Quiz App](https://github.com/AmeyaMorgaonkar/quiz-app)                 | A simple quiz app where you can add questions and get results            |
 | [Photoshop Clone](https://github.com/AmeyaMorgaonkar/Photoshop-Clone)   | A clean way to edit & control various properties of your photos          |
 
-[View All Projects](https://github.com/AmeyaMorgaonkar?tab=repositories)
+🚀 **[View All Projects](https://github.com/AmeyaMorgaonkar?tab=repositories)**
 
 ---
 
