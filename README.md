@@ -25,7 +25,7 @@ I'm a **Full Stack Developer** based in Pune, India.
 
 ---
 
-## 📂 I'm Currently Working On
+## 🧑‍💻 I'm Currently Working On
 
 | Project                                                                 | Description                                                              |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------|
