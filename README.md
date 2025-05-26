@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm **Ameya Morgaonkar**, and I'm a **Full Stack Developer** based in India.  
+## Hi there, I'm Ameya Morgaonkar 👋
+I'm a **Full Stack Developer** based in Pune, India.  
 
 ---
 
