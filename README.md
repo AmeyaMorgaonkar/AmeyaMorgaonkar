@@ -26,8 +26,8 @@ I'm **Ameya Morgaonkar**, and I'm a **Full Stack Developer** based in India.
 
 | Project                                                                 | Description                                                              |
 |-------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| [Quiz App](https://github.com/AmeyaMorgaonkar/quiz-app)                | A simple quiz app where you can add questions and get results            |
-| [Photoshop Clone](https://github.com/AmeyaMorgaonkar/Photoshop-Clone) | A clean way to edit & control various properties of your photos          |
+| [Quiz App](https://github.com/AmeyaMorgaonkar/quiz-app)                 | A simple quiz app where you can add questions and get results            |
+| [Photoshop Clone](https://github.com/AmeyaMorgaonkar/Photoshop-Clone)   | A clean way to edit & control various properties of your photos          |
 
 
 
