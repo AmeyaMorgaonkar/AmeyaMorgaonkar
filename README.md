@@ -1,7 +1,7 @@
 ## Hi there, I'm **AMEYA MORGAONKAR** 👋
 I'm a **Full Stack Developer** based in Pune, India.  
-- I'm currently studying **Computer Science** at **[VIT, Pune](https://www.vit.edu/)**
-- Backend Development Enthusiast
+- Currently studying **Computer Science** at **[VIT, Pune](https://www.vit.edu/)**
+- Continuously learning and adapting to new technologies
 - Committed to writing clean, maintainable, and testable code
 
 ---
