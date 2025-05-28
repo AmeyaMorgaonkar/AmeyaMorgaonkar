@@ -12,7 +12,7 @@ I'm a **Full Stack Developer** based in Pune, India.
 
 
 ## 🛠️ My Tech Stack
-
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
