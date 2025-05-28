@@ -25,7 +25,7 @@ My **Tech Stack**:
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
 
-- Backend Enthusiast
+- Backend Development Enthusiast
 - Continuously learning and adapting to new technologies
 
 
