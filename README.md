@@ -2,15 +2,19 @@
 I'm a **Full Stack Developer** based in Pune, India.  
 
 
+<!--
 - Committed to writing clean, maintainable, and testable code
 - Continuously learning and adapting to new technologies
+-->
 
 
 ---
 
 
 ## 🛠️ My Tech Stack
-  
+
+<br>
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
@@ -20,6 +24,8 @@ I'm a **Full Stack Developer** based in Pune, India.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
+Continuously learning and adapting to new technologies
+<br>
 
 ---
 
