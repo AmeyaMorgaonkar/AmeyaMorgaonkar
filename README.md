@@ -23,7 +23,6 @@ I'm a **Full Stack Developer** based in Pune, India.
 ---
 
 ## 📫 Contact Me
-Say Hi or tell me about your day
 - **Email:** [ameyamorgaonkar@gmail.com](mailto:ameyamorgaonkar@gmail.com)
 
 
