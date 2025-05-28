@@ -13,7 +13,7 @@ I'm a **Full Stack Developer** based in Pune, India.
 
 ## 🛠️ What I Work With
 
-`My **Tech Stack**:  
+My **Tech Stack**:  
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
@@ -23,8 +23,6 @@ I'm a **Full Stack Developer** based in Pune, India.
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-
-`Continuously learning and adapting to new technologies`
 
 
 ---
