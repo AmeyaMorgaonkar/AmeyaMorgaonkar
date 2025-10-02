@@ -1,5 +1,6 @@
 ## Hi, I'm **AMEYA MORGAONKAR** 👋
 I'm a **Full Stack Developer** based in Pune, India.  
+Persuing B. Tech in **Computer Engineering** in VIT, Pune
 
 
 <!--
