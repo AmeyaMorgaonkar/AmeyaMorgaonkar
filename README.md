@@ -12,21 +12,33 @@ Persuing B. Tech in **Computer Engineering** at VIT, Pune
 ---
 
 
-## 🛠️ My Tech Stack
-  
+## 🛠️ Tech Stack
+
+### What I'm Good at:
+
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
+### What I'm Familiar with:
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
+
+
+<!--
 ```python
 print("Continuously learning and adapting to new technologies!")
 ```
-
+-->
 
 ---
 
