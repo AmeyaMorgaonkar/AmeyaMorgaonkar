@@ -14,7 +14,7 @@ Persuing B. Tech in **Computer Engineering** at VIT, Pune
 
 ## 🛠️ Tech Stack
 
-### What I'm Good at:
+### I'm Good at:
 
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -26,7 +26,7 @@ Persuing B. Tech in **Computer Engineering** at VIT, Pune
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-### What I'm Familiar with:
+### I'm Familiar with:
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
