@@ -2,11 +2,9 @@
 
 # Hey, I'm Ameya 👋
 
-**Full Stack Developer**
-<br/>
-Computer Engineering Undergrad @ VIT, Pune
+### Full Stack Developer
 
-<a href="https://ameya-morgaonkar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=link&logoColor=white" /></a>&nbsp; <a href="YOUR_RESUME_LINK" target="_blank"><img src="https://img.shields.io/badge/Resume-333?style=for-the-badge&logo=cv&logoColor=white" /></a>&nbsp; <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=mail&logoColor=white" /></a>
+<a href="https://ameya-morgaonkar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=link&logoColor=white" /></a>&nbsp; <a href="https://drive.google.com/file/d/1z8YJbl1iNFEZ40itB2q5J2Lje4Tmz4Z9/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-333?style=for-the-badge&logo=cv&logoColor=white" /></a>&nbsp; <a href="https://www.linkedin.com/in/ameyamorgaonkar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:ameyamorgaonkar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=mail&logoColor=white" /></a>
 
 </div>
 
